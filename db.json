@@ -1,8 +1,8 @@
 {
     "FAQ": [
-      { "id": 1, "title": "Question 1" ,"body":"I dont know"},
-      { "id": 2, "title": "Question 2" ,"body":"Don't ask me"},
-      { "id": 3, "title": "Question 3" ,"body":"Delete the app"}
+      { "id": 1, "title": "How doe it work?" ,"body":"This feature is still under beta testing. We will let you know once the development is completed."},
+      { "id": 2, "title": "How do I change my mentor?" ,"body":"This feature is still under beta testing. We will let you know once the development is completed."},
+      { "id": 3, "title": "How do I rate my mentor?" ,"body":"This feature is still under beta testing. We will let you know once the development is completed."}
     ],
     "comments": [
       { "id": 1, "body": "some comment", "postId": 1 },
